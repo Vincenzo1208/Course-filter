@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Course-filter/static/css/main.f66ab57f.css",
+    "main.js": "/Course-filter/static/js/main.242cad55.js",
+    "index.html": "/Course-filter/index.html",
+    "main.f66ab57f.css.map": "/Course-filter/static/css/main.f66ab57f.css.map",
+    "main.242cad55.js.map": "/Course-filter/static/js/main.242cad55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f66ab57f.css",
+    "static/js/main.242cad55.js"
+  ]
+}
